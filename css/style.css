@@ -24,3 +24,12 @@ p{
 .redtype-color{
     color: #DB7370;
 }
+.circle{
+    background-color: #DB7370;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+background-color: #2DB2DF;
+}
