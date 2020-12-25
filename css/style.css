@@ -9,7 +9,10 @@ body{
     background-color: #8E8C8E;
 }
 .navbar-container{
+    top: 0;
     background-color: #272B38;
+    position: sticky;
+    z-index: 2;
 }
 .about-container{
     background-color: #01BBBD;
@@ -32,4 +35,10 @@ p{
 }
 .project-container{
 background-color: #2DB2DF;
+}
+.contact-container{
+    background-color: #474C5E;
+}
+.inner-form{
+    background-color: #555C73;
 }
