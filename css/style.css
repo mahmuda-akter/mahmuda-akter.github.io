@@ -27,7 +27,13 @@ p{
 .redtype-color{
     color: #DB7370;
 }
-.circle{
+.bg-redtype-color{
+    background-color: #DB7370;
+}
+.bg-redtype-color:hover{
+color: black!important;
+}
+.circle-edu{
     background-color: #DB7370;
     width: 150px;
     height: 150px;
@@ -41,4 +47,20 @@ background-color: #2DB2DF;
 }
 .inner-form{
     background-color: #555C73;
+}
+.footer{
+    background-color: #2592B9;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color:  #2592B9;;
+}
+.circle:hover{
+    background-color: black;
 }
